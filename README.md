@@ -1,7 +1,7 @@
 # sec-automation-lab
 week 1 deliverable
-git config --global user.name "Your Name"
+git config --global alan.arocho "alan arocho"
 
-git config --global user.email "you@example.com"
+git config --global user.email "a.arocho7101@student.nu.edu"
 
-git clone git@github.com:yourusername/sec-automation-lab.git
+git clone git@github.com:alanarocho/sec-automation-lab.git
